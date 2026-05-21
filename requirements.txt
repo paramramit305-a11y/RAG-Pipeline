@@ -1,0 +1,25 @@
+# Core
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-anthropic
+
+# Document Loading
+pypdf
+pymupdf
+
+# Embeddings
+sentence-transformers
+
+# Vector Store
+chromadb
+
+# Text Splitting
+langchain-text-splitters
+
+# Utilities
+python-dotenv
+scikit-learn
+uuid
